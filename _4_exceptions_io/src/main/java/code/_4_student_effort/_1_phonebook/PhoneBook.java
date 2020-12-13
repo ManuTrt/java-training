@@ -27,7 +27,7 @@ public class PhoneBook {
         }
     }
 
-    public Long getByName(String name){
+    public Long getByName(String name) {
         return phoneNumbers.get(name);
     }
 
