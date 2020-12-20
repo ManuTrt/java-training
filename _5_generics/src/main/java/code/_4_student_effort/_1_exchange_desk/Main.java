@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         ExchangeDesk ed = new ExchangeDesk();
-        Ron ronValue = new Ron(20);
+        RON ronValue = new RON(20);
         EUR eurValue = new EUR(5);
         USD usdValue = new USD(6);
 

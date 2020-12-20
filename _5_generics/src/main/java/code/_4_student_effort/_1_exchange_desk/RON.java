@@ -1,10 +1,10 @@
 package code._4_student_effort._1_exchange_desk;
 
-public class Ron extends Currency {
-    public Ron() {
+public class RON extends Currency {
+    public RON() {
     }
 
-    public Ron(float value) {
+    public RON(float value) {
         super(value, "RON");
     }
 }
