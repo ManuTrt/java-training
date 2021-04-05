@@ -10,5 +10,6 @@ public class MethodAndConstructorReferenceExample {
 
         // Reference to a constructor of String class
         Supplier<String> generator = String::new;
+        System.out.println(sqrt.apply(49.0));
     }
 }
